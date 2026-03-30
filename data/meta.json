@@ -1,0 +1,7 @@
+{
+  "department": "Business",
+  "last_sync": "2026-03-30T00:00:00Z",
+  "version": "1.0.0",
+  "covers": ["crm", "finance", "marketing", "legal", "management", "hr", "grants"],
+  "pages": ["/crm", "/finance", "/marketing", "/legal", "/management", "/hr", "/grants"]
+}

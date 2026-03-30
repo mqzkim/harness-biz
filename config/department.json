@@ -1,0 +1,13 @@
+{
+  "name": "Business",
+  "slug": "biz",
+  "color": "#F59E0B",
+  "icon": "💼",
+  "description": "CRM·재무·마케팅·법무·경영·인사·그랜트 비즈니스 운영",
+  "personas": ["Pragmatist", "User Advocate", "Guardian"],
+  "scope": {
+    "tables": ["contacts", "deals", "transactions", "budgets", "contracts", "objectives", "meetings", "decisions"],
+    "actions": ["business.ts"],
+    "pages": ["crm", "finance", "marketing", "legal", "management", "hr", "grants"]
+  }
+}

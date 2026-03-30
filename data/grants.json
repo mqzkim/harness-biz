@@ -1,0 +1,5 @@
+{
+  "opportunities": { "total": 0, "eligible": 0, "items": [] },
+  "applications": { "submitted": 0, "approved": 0, "pending": 0, "items": [] },
+  "funding": { "total_received": 0, "total_pending": 0 }
+}

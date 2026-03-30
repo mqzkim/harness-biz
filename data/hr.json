@@ -1,0 +1,5 @@
+{
+  "roster": { "total_agents": 0, "by_department": {}, "by_tier": {} },
+  "performance": { "avg_eval_score": null, "top_performers": [] },
+  "training": { "programs": 0, "completion_rate": null }
+}

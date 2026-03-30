@@ -1,0 +1,5 @@
+{
+  "campaigns": { "active": 0, "total": 0, "items": [] },
+  "content": { "pipeline": [], "published": 0 },
+  "metrics": { "reach": 0, "engagement": 0, "conversion": 0 }
+}

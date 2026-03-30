@@ -1,0 +1,5 @@
+{
+  "contacts": { "total": 0, "by_stage": { "lead": 0, "prospect": 0, "customer": 0, "churned": 0 } },
+  "deals": { "total": 0, "pipeline_value": 0, "by_stage": {} },
+  "recent_activities": []
+}

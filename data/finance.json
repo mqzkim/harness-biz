@@ -1,0 +1,5 @@
+{
+  "overview": { "revenue": 0, "expenses": 0, "net": 0 },
+  "transactions": { "total": 0, "recent": [] },
+  "budgets": { "total": 0, "utilization_pct": 0, "items": [] }
+}
