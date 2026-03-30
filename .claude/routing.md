@@ -21,6 +21,8 @@
   skill: biz-sync
 
 ## agents
+- pattern: 분석|analysis|인사이트|insight|ROI|리스크|risk|보고서|report
+  agent: biz-analyst
 
 ## Fallback
 매칭 실패 시 → `~/.claude/agents/architect.md` 호출
